@@ -11,7 +11,7 @@ int main ()
         for(j=0;j<12;j++)
         {
             scanf("%lf",&m[i][j]);
-            if(j==l)
+            if(i==l)
             {
                 sum+=m[i][j];
             }

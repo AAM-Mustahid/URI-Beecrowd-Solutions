@@ -14,14 +14,14 @@ int main()
         }
     }
 
-   for(i=0;i<12;i++)
-   {
-       for(j=l;j<12;j++)
-       {
-           sum+=m[i][j];
-       }
-       l++;
-   }
+    for (i = 1; i < 12; i++)
+    {
+        for (j = 0; j < l; j++)
+        {
+            sum += m[i][j];
+        }
+        l ++;
+    }
 
     if (ch[0] == 'S')
     {
