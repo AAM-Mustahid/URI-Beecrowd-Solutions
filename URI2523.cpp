@@ -15,7 +15,7 @@ int main()
         }
         /* for (i = 1; i <= n; i++)
          {
-             cout << a[bulb[i] - 1];
+             cout << a[bulb[i] - 1]; //avoid this code. There are time limit error
          }
          */
          cout << endl;
