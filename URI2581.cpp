@@ -10,7 +10,7 @@ int main()
 
         getline(cin, q1);
         if (i != 0)
-            cout << "I am Toorg!" << endl;
+            cout << "I am Toorg!" << endl;1
     }
 
     return 0;
