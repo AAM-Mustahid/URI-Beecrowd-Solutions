@@ -15,6 +15,6 @@ int main()
         }
         cout << "Case " << j << ": " << p[n / 2] << endl;
     }
-
+                     
     return 0;
 }
