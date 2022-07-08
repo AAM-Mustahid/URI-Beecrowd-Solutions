@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "URI1864.C": "cpp"
+        "URI1864.C": "cpp",
+        "iostream": "cpp"
     }
 }
