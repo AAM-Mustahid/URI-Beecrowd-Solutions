@@ -25,7 +25,7 @@ int main()
     while (c[i] != '\0' && i < 10)
     {
         cout << c[i];
-        i++;
+        i++; 
     }
     cout << endl;
 
