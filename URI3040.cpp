@@ -12,7 +12,7 @@ int main()
             cout << "Sim" << endl;
         else
             cout << "Nao" << endl;
-    } // not submitted
+    } 
     
 
     return 0;
